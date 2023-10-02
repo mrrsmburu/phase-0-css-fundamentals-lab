@@ -3,3 +3,32 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+nav {
+  text-align: center;
+}
+section {
+  text-align: center;
+}
+  
+#featured-property p {
+  width: 800px;
+  margin: 20px auto;
+  text-align: center;
+}
+img{
+  width: 900px;
+}
+#details div {
+  
+  text-align: center;
+  width: 25%;
+  float: left;
+  box-sizing: border-box;
+}
+#details section {
+  background-color: #f2f2f263;
+
+}
